@@ -6,4 +6,4 @@ En primer lugar se han instalado los correspondientes programas de **Unity** y *
 
 
 #### **Funcionamiento:**
-![Alt Text](/https://github.com/alu0101216829/Interfaces-1/blob/main/2022-10-13%2021-31-21.gif)
+![Alt Text](/2022-10-13%2021-31-21.gif)
