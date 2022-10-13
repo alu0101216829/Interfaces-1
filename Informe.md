@@ -6,4 +6,4 @@ En primer lugar se han instalado los correspondientes programas de **Unity** y *
 
 
 #### **Funcionamiento:**
-![Gif](/2022-10-13\ 21-31-21.gif)
+![Gif](/2022-10-13 21-31-21.gif)
